@@ -1,5 +1,3 @@
-import catalogService from '../services/catalogService.js';
-import productService from '../services/productService.js';
 import MyError from '../middlewares/myError.js';
 import Product from '../database/product.js';
 
